@@ -1,0 +1,19 @@
+{
+  "name": "newserver",
+  "version": "1.0.0",
+  "description": "Creating a new server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hello",
+    "worlds"
+  ],
+  "author": "DKG",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0",
+    "url": "^0.11.4"
+  }
+}
